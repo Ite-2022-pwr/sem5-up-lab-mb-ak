@@ -1,2 +1,3 @@
-# sem5-up-lab-mb-ak
- Urządzenia peryferyjne - laboratoria
+#  Urządzenia peryferyjne - laboratoria
+
+Prowadzący: [dr inż. Dominik Żelazny](https://wit.pwr.edu.pl/wydzial/struktura-organizacyjna/pracownicy/dominik-zelazny)
